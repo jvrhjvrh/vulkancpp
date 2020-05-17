@@ -1,0 +1,1 @@
+/bin/clang++-10  -g   CMakeFiles/MyVulkanTutorial.dir/main.cpp.o  -o MyVulkanTutorial  /usr/lib/x86_64-linux-gnu/libglfw.so.3.3 -lvulkan 

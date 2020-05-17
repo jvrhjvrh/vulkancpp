@@ -1,0 +1,3 @@
+/home/jvrh/CLionProjects/MyVulkanTutorial/build/CMakeFiles/rebuild_cache.dir
+/home/jvrh/CLionProjects/MyVulkanTutorial/build/CMakeFiles/edit_cache.dir
+/home/jvrh/CLionProjects/MyVulkanTutorial/build/CMakeFiles/MyVulkanTutorial.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jvrh/CLionProjects/MyVulkanTutorial/main.cpp
+vulkan/vulkan.h
+-
+GLFW/glfw3.h
+-
+set
+-
+optional
+-
+map
+-
+iostream
+-
+stdexcept
+-
+cstdlib
+-
+vector
+-
+cstring
+-
+

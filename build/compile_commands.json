@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jvrh/CLionProjects/MyVulkanTutorial/build",
+  "command": "/bin/clang++-10    -g   -std=gnu++2a -o CMakeFiles/MyVulkanTutorial.dir/main.cpp.o -c /home/jvrh/CLionProjects/MyVulkanTutorial/main.cpp",
+  "file": "/home/jvrh/CLionProjects/MyVulkanTutorial/main.cpp"
+}
+]
